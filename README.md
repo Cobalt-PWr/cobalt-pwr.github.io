@@ -6,3 +6,4 @@
 - **2024-10-04**: Added basic site file and README.
 - **2025-10-13**: Created initial version of the site.
 - **2025-10-13**: Fixed Leaflet contributors information displaying above the header.
+- **2025-10-13**: Updated project icons.
