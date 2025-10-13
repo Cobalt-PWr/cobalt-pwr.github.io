@@ -8,3 +8,4 @@
 - **2025-10-13**: Fixed Leaflet contributors information displaying above the header.
 - **2025-10-13**: Updated project icons.
 - **2025-10-13**: Fixed text formatting and added CleanerText component.
+- **2025-10-13**: SEO optimization for perfect score (100).
