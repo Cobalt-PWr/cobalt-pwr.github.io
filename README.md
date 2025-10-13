@@ -9,3 +9,4 @@
 - **2025-10-13**: Updated project icons.
 - **2025-10-13**: Fixed text formatting and added CleanerText component.
 - **2025-10-13**: SEO optimization for perfect score (100).
+- **2025-10-13**: Refactored MapSection into a separate component for better code organization.
