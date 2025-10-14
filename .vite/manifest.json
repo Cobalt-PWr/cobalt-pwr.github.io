@@ -1,0 +1,42 @@
+{
+  "_client-rSGEeBx2.js": {
+    "file": "assets/client-rSGEeBx2.js",
+    "name": "client",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "file": "assets/app-DkxBk5Lq.js",
+    "name": "app",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "_client-rSGEeBx2.js",
+      "src/components/MapSection.tsx"
+    ],
+    "css": [
+      "assets/app-BCNk4u23.css"
+    ],
+    "assets": [
+      "assets/logo-CnzAcmvY.png"
+    ]
+  },
+  "src/assets/logo.png": {
+    "file": "assets/logo-CnzAcmvY.png",
+    "src": "src/assets/logo.png"
+  },
+  "src/components/MapSection.tsx": {
+    "file": "assets/MapSection-DrQBbyRk.js",
+    "name": "MapSection",
+    "src": "src/components/MapSection.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "css": [
+      "assets/MapSection-DNtsKC6t.css"
+    ]
+  }
+}

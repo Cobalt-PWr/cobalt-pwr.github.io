@@ -11,3 +11,4 @@
 - **2025-10-13**: SEO optimization for perfect score (100).
 - **2025-10-13**: Refactored MapSection into a separate component for better code organization.
 - **2025-10-14**: Updated project description.
+- **2025-10-14**: Added static site generation (SSG) for the entire website.
