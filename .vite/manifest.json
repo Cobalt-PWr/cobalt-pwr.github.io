@@ -1,6 +1,6 @@
 {
-  "_client-rSGEeBx2.js": {
-    "file": "assets/client-rSGEeBx2.js",
+  "_client-K-4EGurv.js": {
+    "file": "assets/client-K-4EGurv.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,12 +8,12 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-DkxBk5Lq.js",
+    "file": "assets/app-DOAjHw1F.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-rSGEeBx2.js",
+      "_client-K-4EGurv.js",
       "src/components/MapSection.tsx"
     ],
     "css": [
@@ -28,7 +28,7 @@
     "src": "src/assets/logo.png"
   },
   "src/components/MapSection.tsx": {
-    "file": "assets/MapSection-DrQBbyRk.js",
+    "file": "assets/MapSection-Cs4QLFbC.js",
     "name": "MapSection",
     "src": "src/components/MapSection.tsx",
     "isDynamicEntry": true,
