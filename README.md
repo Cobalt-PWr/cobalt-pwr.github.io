@@ -13,3 +13,4 @@
 - **2025-10-14**: Updated project description.
 - **2025-10-14**: Added static site generation (SSG) for the entire website.
 - **2025-12-03**: Updated Management Section.
+- **2026-03-11**: New sections "Elektroosadzanie miedzi", "Czarna masa", improved CleanerText component, new JoinAs component.

@@ -1,6 +1,6 @@
 {
-  "_client-K-4EGurv.js": {
-    "file": "assets/client-K-4EGurv.js",
+  "_client-cZo_Xprq.js": {
+    "file": "assets/client-cZo_Xprq.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,27 +8,67 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-DOAjHw1F.js",
+    "file": "assets/app-CbVpfEVe.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-K-4EGurv.js",
+      "_client-cZo_Xprq.js",
       "src/components/MapSection.tsx"
     ],
     "css": [
-      "assets/app-BCNk4u23.css"
+      "assets/app-ZcYg_-ev.css"
     ],
     "assets": [
-      "assets/logo-CnzAcmvY.png"
+      "assets/logo-CnzAcmvY.png",
+      "assets/qrcode-DaquFeqp.svg",
+      "assets/image3-BVggphLw.jpg",
+      "assets/image4-Ct_aBxCj.png",
+      "assets/image5-slRmmouJ.jpg",
+      "assets/image6-CqFucPnM.jpg",
+      "assets/image7-CAsdI6Sk.jpg",
+      "assets/image8-BWXZoQbB.jpg",
+      "assets/image9-DS6NuuAl.jpg"
     ]
   },
   "src/assets/logo.png": {
     "file": "assets/logo-CnzAcmvY.png",
     "src": "src/assets/logo.png"
   },
+  "src/assets/projects/czarna-masa/image3.jpg": {
+    "file": "assets/image3-BVggphLw.jpg",
+    "src": "src/assets/projects/czarna-masa/image3.jpg"
+  },
+  "src/assets/projects/czarna-masa/image4.png": {
+    "file": "assets/image4-Ct_aBxCj.png",
+    "src": "src/assets/projects/czarna-masa/image4.png"
+  },
+  "src/assets/projects/czarna-masa/image5.jpg": {
+    "file": "assets/image5-slRmmouJ.jpg",
+    "src": "src/assets/projects/czarna-masa/image5.jpg"
+  },
+  "src/assets/projects/czarna-masa/image6.jpg": {
+    "file": "assets/image6-CqFucPnM.jpg",
+    "src": "src/assets/projects/czarna-masa/image6.jpg"
+  },
+  "src/assets/projects/czarna-masa/image7.jpg": {
+    "file": "assets/image7-CAsdI6Sk.jpg",
+    "src": "src/assets/projects/czarna-masa/image7.jpg"
+  },
+  "src/assets/projects/czarna-masa/image8.jpg": {
+    "file": "assets/image8-BWXZoQbB.jpg",
+    "src": "src/assets/projects/czarna-masa/image8.jpg"
+  },
+  "src/assets/projects/czarna-masa/image9.jpg": {
+    "file": "assets/image9-DS6NuuAl.jpg",
+    "src": "src/assets/projects/czarna-masa/image9.jpg"
+  },
+  "src/assets/qrcode.svg": {
+    "file": "assets/qrcode-DaquFeqp.svg",
+    "src": "src/assets/qrcode.svg"
+  },
   "src/components/MapSection.tsx": {
-    "file": "assets/MapSection-Cs4QLFbC.js",
+    "file": "assets/MapSection-wVMpvh65.js",
     "name": "MapSection",
     "src": "src/components/MapSection.tsx",
     "isDynamicEntry": true,
