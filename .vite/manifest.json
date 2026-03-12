@@ -1,6 +1,6 @@
 {
-  "_client-cZo_Xprq.js": {
-    "file": "assets/client-cZo_Xprq.js",
+  "_client-xKQZ93om.js": {
+    "file": "assets/client-xKQZ93om.js",
     "name": "client",
     "isDynamicEntry": true,
     "imports": [
@@ -8,12 +8,12 @@
     ]
   },
   "index.html": {
-    "file": "assets/app-CbVpfEVe.js",
+    "file": "assets/app-BwAx6EIW.js",
     "name": "app",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "_client-cZo_Xprq.js",
+      "_client-xKQZ93om.js",
       "src/components/MapSection.tsx"
     ],
     "css": [
@@ -68,7 +68,7 @@
     "src": "src/assets/qrcode.svg"
   },
   "src/components/MapSection.tsx": {
-    "file": "assets/MapSection-wVMpvh65.js",
+    "file": "assets/MapSection-BtEd5Uuc.js",
     "name": "MapSection",
     "src": "src/components/MapSection.tsx",
     "isDynamicEntry": true,
